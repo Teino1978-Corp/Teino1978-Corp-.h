@@ -1,0 +1,3 @@
+@interface RootTableViewController : UITableViewController <delegation1, delegation2>
+...
+@end

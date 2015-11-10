@@ -1,0 +1,1 @@
+@property (weak) id<protocolName> delegate;
